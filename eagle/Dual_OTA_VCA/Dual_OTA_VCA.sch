@@ -17913,8 +17913,8 @@ DIN A3, landscape with location and doc. field</description>
 <part name="P-2" library="supply1" deviceset="-5V" device=""/>
 <part name="LED1" library="led" deviceset="LED" device="3MM" value="Green"/>
 <part name="R10" library="rcl" deviceset="R-EU_" device="0207/7" value="10k"/>
-<part name="C6" library="rcl" deviceset="C-EU" device="025-024X044" value="0.1uF"/>
-<part name="C7" library="rcl" deviceset="C-EU" device="025-024X044" value="0.1uF"/>
+<part name="C6" library="rcl" deviceset="C-EU" device="050-024X044" value="0.1uF"/>
+<part name="C7" library="rcl" deviceset="C-EU" device="050-024X044" value="0.1uF"/>
 <part name="C8" library="rcl" deviceset="C-EU" device="025-024X044" value="0.1uF"/>
 <part name="C9" library="rcl" deviceset="C-EU" device="025-024X044" value="0.1uF"/>
 <part name="AGND13" library="supply1" deviceset="AGND" device=""/>
