@@ -1,0 +1,64 @@
+Partlist exported from D:/Users/gizmo/Documents/Develop/Dual_OTA_VCA/eagle/Dual_OTA_VCA/Dual_OTA_VCA.sch at 2018/04/03 14:57
+
+Part Value    Device          Package      Description                                                                      
+C1   10uF     CPOL-EUE2.5-7   E2,5-7       POLARIZED CAPACITOR, European symbol                                             
+C2   10uF     CPOL-EUE2.5-7   E2,5-7       POLARIZED CAPACITOR, European symbol                                             
+C3   0.33uF   C-EU050-030X075 C050-030X075 CAPACITOR, European symbol                                                       
+C4   100uF    CPOL-EUE2.5-7   E2,5-7       POLARIZED CAPACITOR, European symbol                                             
+C5   100uF    CPOL-EUE2.5-7   E2,5-7       POLARIZED CAPACITOR, European symbol                                             
+C6   0.1uF    C-EU050-024X044 C050-024X044 CAPACITOR, European symbol                                                       
+C7   0.1uF    C-EU050-024X044 C050-024X044 CAPACITOR, European symbol                                                       
+C8   0.1uF    C-EU025-024X044 C025-024X044 CAPACITOR, European symbol                                                       
+C9   0.1uF    C-EU025-024X044 C025-024X044 CAPACITOR, European symbol                                                       
+C10  0.1uF    C-EU025-024X044 C025-024X044 CAPACITOR, European symbol                                                       
+C11  0.1uF    C-EU025-024X044 C025-024X044 CAPACITOR, European symbol                                                       
+C12  0.1uF    C-EU025-024X044 C025-024X044 CAPACITOR, European symbol                                                       
+C13  0.1uF    C-EU025-024X044 C025-024X044 CAPACITOR, European symbol                                                       
+C14  10uF     CPOL-EUE2.5-7   E2,5-7       POLARIZED CAPACITOR, European symbol                                             
+C15  10uF     CPOL-EUE2.5-7   E2,5-7       POLARIZED CAPACITOR, European symbol                                             
+C16  0.33uF   C-EU050-030X075 C050-030X075 CAPACITOR, European symbol                                                       
+IC1  LM13600N LM13600N        DIL16        Dual Operational Transconductance Amplifiers with Linearizing Diodes and Buffers 
+IC2  NJM4580  LM4558N         DIL08        OP AMP                                                                           
+IC3  LM4558N  LM4558N         DIL08        OP AMP                                                                           
+IC4  NJM4580  LM4558N         DIL08        OP AMP                                                                           
+JP1  INA      PINHD-1X2       1X02         PIN HEADER                                                                       
+JP2  BIASA    PINHD-1X2       1X02         PIN HEADER                                                                       
+JP3  OUTA     PINHD-1X2       1X02         PIN HEADER                                                                       
+JP4  INA      PINHD-1X2       1X02         PIN HEADER                                                                       
+JP5  BIASA    PINHD-1X2       1X02         PIN HEADER                                                                       
+JP6  OUTA     PINHD-1X2       1X02         PIN HEADER                                                                       
+JP7  PWR      PINHD-1X4       1X04         PIN HEADER                                                                       
+JP8  PWR      PINHD-1X4       1X04         PIN HEADER                                                                       
+JP9  TP_GND   PINHD-1X2       1X02         PIN HEADER                                                                       
+JP10 TP_ENVA  PINHD-1X1       1X01         PIN HEADER                                                                       
+JP11 INB      PINHD-1X2       1X02         PIN HEADER                                                                       
+JP12 OUTB     PINHD-1X2       1X02         PIN HEADER                                                                       
+JP13 BIASB    PINHD-1X2       1X02         PIN HEADER                                                                       
+JP14 INB      PINHD-1X2       1X02         PIN HEADER                                                                       
+JP15 BIASB    PINHD-1X2       1X02         PIN HEADER                                                                       
+JP16 OUTB     PINHD-1X2       1X02         PIN HEADER                                                                       
+JP17 TP_ENVB  PINHD-1X1       1X01         PIN HEADER                                                                       
+LED1 Green    LED3MM          LED3MM       LED                                                                              
+R1   56k      R-EU_0207/7     0207/7       RESISTOR, European symbol                                                        
+R2   10k      TRIM_EU-B25P    B25P         POTENTIOMETER                                                                    
+R3   47k      R-EU_0207/7     0207/7       RESISTOR, European symbol                                                        
+R4   33k      R-EU_0207/7     0207/7       RESISTOR, European symbol                                                        
+R5   4.7k     R-EU_0207/7     0207/7       RESISTOR, European symbol                                                        
+R6   100k     R-EU_0207/7     0207/7       RESISTOR, European symbol                                                        
+R7   10k      TRIM_EU-B25P    B25P         POTENTIOMETER                                                                    
+R8   100k     TRIM_EU-B25P    B25P         POTENTIOMETER                                                                    
+R9   1k       R-EU_0207/7     0207/7       RESISTOR, European symbol                                                        
+R10  10k      R-EU_0207/7     0207/7       RESISTOR, European symbol                                                        
+R11  56k      R-EU_0207/7     0207/7       RESISTOR, European symbol                                                        
+R12  10k      R-EU_0207/7     0207/7       RESISTOR, European symbol                                                        
+R13  10k      TRIM_EU-B25P    B25P         POTENTIOMETER                                                                    
+R14  47k      R-EU_0207/7     0207/7       RESISTOR, European symbol                                                        
+R15  33k      R-EU_0207/7     0207/7       RESISTOR, European symbol                                                        
+R16  4.7k     R-EU_0207/7     0207/7       RESISTOR, European symbol                                                        
+R17  100k     R-EU_0207/7     0207/7       RESISTOR, European symbol                                                        
+R18  10k      TRIM_EU-B25P    B25P         POTENTIOMETER                                                                    
+R19  1k       R-EU_0207/7     0207/7       RESISTOR, European symbol                                                        
+R20  100k     TRIM_EU-B25P    B25P         POTENTIOMETER                                                                    
+R21  10k      R-EU_0207/7     0207/7       RESISTOR, European symbol                                                        
+T1   2SA1015  -PNP-TO92-ECB   TO92-ECB     PNP Transistror                                                                  
+T2   2SA1015  -PNP-TO92-ECB   TO92-ECB     PNP Transistror                                                                  
